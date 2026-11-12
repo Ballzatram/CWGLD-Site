@@ -1,4 +1,4 @@
-# Merge verification — 2026-11-12
+# Merge verification â€” 2026-11-12
 
 Candidate: https://github.com/Ballzatram/CWGLD-Site/pull/1. Base revision: `689992e69b74545034e949d1b091ce5d8abaaab3`.
 Machine-readable evidence: [standards evidence](evidence/standards-2026-11-12.json).
