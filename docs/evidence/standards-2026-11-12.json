@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-12",
+  "base_revision": "689992e69b74545034e949d1b091ce5d8abaaab3",
+  "candidate_parent": "1ad8693cf643a74c050fa2072e69188a8d0f3aa4",
+  "pull_request": "https://github.com/Ballzatram/CWGLD-Site/pull/1",
+  "runtime_contract": "Existing application behavior is preserved; no live external writes are used as verification.",
+  "hosted_protection": "Required PR and strict GitHub Actions standards-gate, including administrators; no force push/deletion.",
+  "conformance": "Not full conformance; unresolved controls remain in docs/audit.md.",
+  "base_application_inventory": {
+    "application_files_compared": 11,
+    "identical_application_files": 11,
+    "changed": []
+  }
+}
